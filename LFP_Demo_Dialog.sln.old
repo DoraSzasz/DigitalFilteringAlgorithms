@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LFP_Demo_Dialog", "LFP_Demo_Dialog.vcproj", "{9C52AEF5-E493-4CE5-B484-F474CC66232F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{034E7C84-A701-4D5C-9AA5-B7807DF01FA2} = {034E7C84-A701-4D5C-9AA5-B7807DF01FA2}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RealFFT", "..\..\Lib3\SRC\RealFFT\FFTReal.vcproj", "{034E7C84-A701-4D5C-9AA5-B7807DF01FA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C52AEF5-E493-4CE5-B484-F474CC66232F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9C52AEF5-E493-4CE5-B484-F474CC66232F}.Debug|Win32.Build.0 = Debug|Win32
+		{9C52AEF5-E493-4CE5-B484-F474CC66232F}.Release|Win32.ActiveCfg = Release|Win32
+		{9C52AEF5-E493-4CE5-B484-F474CC66232F}.Release|Win32.Build.0 = Release|Win32
+		{034E7C84-A701-4D5C-9AA5-B7807DF01FA2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{034E7C84-A701-4D5C-9AA5-B7807DF01FA2}.Debug|Win32.Build.0 = Debug|Win32
+		{034E7C84-A701-4D5C-9AA5-B7807DF01FA2}.Release|Win32.ActiveCfg = Release|Win32
+		{034E7C84-A701-4D5C-9AA5-B7807DF01FA2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="LFP_Demo_Dialog">
+</Property><Property Name="Solution File" Value="C:\_DATA\Neurostar\PROIECTE VECHI\LFP\LFP_de la Razvan\LFP_Demo_Dialog\LFP_Demo_Dialog.sln">
+</Property><Property Name="User Options File" Value="C:\_DATA\Neurostar\PROIECTE VECHI\LFP\LFP_de la Razvan\LFP_Demo_Dialog\LFP_Demo_Dialog.suo">
+</Property><Property Name="Date" Value="27 decembrie 2015">
+</Property><Property Name="Time" Value="23:25">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="LFP_Demo_Dialog.sln" Description="File successfully backed up as C:\_DATA\Neurostar\PROIECTE VECHI\LFP\LFP_de la Razvan\LFP_Demo_Dialog\LFP_Demo_Dialog.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="LFP_Demo_Dialog.suo" Description="File successfully backed up as C:\_DATA\Neurostar\PROIECTE VECHI\LFP\LFP_de la Razvan\LFP_Demo_Dialog\LFP_Demo_Dialog.suo.old">
+</Event><Event ErrorLevel="0" Project="LFP_Demo_Dialog" Source="LFP_Demo_Dialog.vcproj" Description="Converting project file 'C:\_DATA\Neurostar\PROIECTE VECHI\LFP\LFP_de la Razvan\LFP_Demo_Dialog\LFP_Demo_Dialog.vcproj'.">
+</Event><Event ErrorLevel="1" Project="LFP_Demo_Dialog" Source="LFP_Demo_Dialog.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="LFP_Demo_Dialog" Source="LFP_Demo_Dialog.vcproj" Description="Done converting to new project file 'C:\_DATA\Neurostar\PROIECTE VECHI\LFP\LFP_de la Razvan\LFP_Demo_Dialog\LFP_Demo_Dialog.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="LFP_Demo_Dialog" Source="LFP_Demo_Dialog.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="FFTReal" Source="..\..\Lib3\SRC\RealFFT\FFTReal.vcproj" Description="Converting project file 'C:\_DATA\Neurostar\PROIECTE VECHI\LFP\Lib3\SRC\RealFFT\FFTReal.vcproj'.">
+</Event><Event ErrorLevel="2" Project="FFTReal" Source="..\..\Lib3\SRC\RealFFT\FFTReal.vcproj" Description="File 'C:\_DATA\Neurostar\PROIECTE VECHI\LFP\Lib3\SRC\RealFFT\FFTReal.vcproj' was not found.">
+</Event><Event ErrorLevel="2" Project="FFTReal" Source="..\..\Lib3\SRC\RealFFT\FFTReal.vcproj" Description="Project upgrade failed.">
+</Event><Event ErrorLevel="3" Project="FFTReal" Source="..\..\Lib3\SRC\RealFFT\FFTReal.vcproj" Description="Not Converted">
+</Event><Event ErrorLevel="0" Project="" Source="LFP_Demo_Dialog.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="LFP_Demo_Dialog.sln" Description="Converted">
+</Event></UpgradeLog>
